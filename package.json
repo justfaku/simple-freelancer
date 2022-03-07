@@ -1,0 +1,19 @@
+{
+  "name": "simple-freelancer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justfaku/simple-freelancer.git"
+  },
+  "author": "justfaku <fagus.mds@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justfaku/simple-freelancer/issues"
+  },
+  "homepage": "https://github.com/justfaku/simple-freelancer#readme"
+}
